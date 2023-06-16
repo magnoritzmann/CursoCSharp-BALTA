@@ -1,0 +1,15 @@
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.AssemblyReference.cache
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+C:\CSharp_Curso\CursoCSharp-BALTA\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
